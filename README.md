@@ -27,3 +27,15 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Message to the Community
+
+🚀 **Dear Community,** 🚀
+
+**Contributions Welcome:**
+
+- If you have ideas for improvement or encounter issues, please open an [issue](https://github.com/xnm-sdksdk/KanyeWestAPI/issues).
+
+**Feel Free to use the Kanye West API Service**
+
+- https://kanye.rest/

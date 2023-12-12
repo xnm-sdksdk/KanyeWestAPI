@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <i>{{ quote }}</i>
     <p>Kanye West</p>
   </div>
@@ -34,3 +34,15 @@ export default {
   },
 };
 </script>
+
+<style>
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0 2rem;
+  font-size: 2rem;
+}
+</style>
